@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="49c91cc5-f835-4b39-972e-c6ab0c309953" version="1">
+  <Properties>
+    <Name>Earlier Alliances</Name>
+    <Description>Alliances unlock with Political Philosophy instead of Civil Service.</Description>
+    <Teaser>Alliances unlock with Political Philosophy instead of Civil Service.</Teaser>
+    <Authors>p0kiehl</Authors>
+	<CompatibleVersions>2.0</CompatibleVersions>
+  </Properties>
+  <InGameActions>
+    <UpdateDatabase id="Alliances">
+      <Properties>
+        <LoadOrder>5</LoadOrder>
+      </Properties>
+      <File>Diplomacy.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>Diplomacy.sql</File>
+  </Files>
+</Mod>

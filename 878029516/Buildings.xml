@@ -1,0 +1,30 @@
+<GameData>
+	<Building_YieldChanges>
+
+		<Update>
+			<Where BuildingType="BUILDING_GRANARY" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where BuildingType="BUILDING_WATER_MILL" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where BuildingType="BUILDING_LIGHTHOUSE" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where BuildingType="BUILDING_SEAPORT" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="3"/>
+		</Update>
+
+		<Update>
+			<Where BuildingType="BUILDING_GURDWARA" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="3"/>
+		</Update>
+
+	</Building_YieldChanges>
+</GameData>

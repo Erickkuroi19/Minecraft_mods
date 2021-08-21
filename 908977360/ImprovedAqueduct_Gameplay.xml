@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GameData1 -->
+<!-- Author: Daniel -->
+<!-- DateCreated: 4/19/2017 1:12:27 PM -->
+<GameData>
+<!--District Changes-->
+	<Districts>
+		<Update>
+			<Where DistrictType="DISTRICT_AQUEDUCT"/>
+			<Set RequiresPopulation="true"/>
+		</Update>
+		<Update>
+			<Where DistrictType="DISTRICT_BATH"/>
+			<Set RequiresPopulation="true"/>
+		</Update>
+	<!--Text Changes-->
+		<Update>
+			<Where DistrictType="DISTRICT_AQUEDUCT"/>
+			<Set Description="A district that provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. Must be built adjacent to the City Center."/>
+		</Update>
+		<Update>
+			<Where DistrictType="DISTRICT_BATH"/>
+			<Set Description="A district unique to Rome for city growth. Replaces the Aqueduct district.[NEWLINE][NEWLINE]It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. Must be built adjacent to the City Center. In either case, the Bath provides an additional bonus of +2 [ICON_Housing] Housing and +1 [ICON_Amenities] Amenity. Must be built adjacent to the City Center."/>
+		</Update>
+	</Districts>
+	<District_Adjacencies>
+	<!--Aqueduct-->
+		<Row DistrictType="DISTRICT_AQUEDUCT" YieldChangeId="Mountains_Food1"/>
+		<Row DistrictType="DISTRICT_AQUEDUCT" YieldChangeId="Mountains_Food2"/>
+		<Row DistrictType="DISTRICT_AQUEDUCT" YieldChangeId="Mountains_Food3"/>
+		<Row DistrictType="DISTRICT_AQUEDUCT" YieldChangeId="Mountains_Food4"/>
+		<Row DistrictType="DISTRICT_AQUEDUCT" YieldChangeId="Mountains_Food5"/>
+		<Row DistrictType="DISTRICT_AQUEDUCT" YieldChangeId="District_Food"/>
+		<Row DistrictType="DISTRICT_AQUEDUCT" YieldChangeId="River_Food"/>
+		<Row DistrictType="DISTRICT_AQUEDUCT" YieldChangeId="Oasis_Food"/>
+	<!--Bath-->
+		<Row DistrictType="DISTRICT_BATH" YieldChangeId="Mountains_Food1"/>
+		<Row DistrictType="DISTRICT_BATH" YieldChangeId="Mountains_Food2"/>
+		<Row DistrictType="DISTRICT_BATH" YieldChangeId="Mountains_Food3"/>
+		<Row DistrictType="DISTRICT_BATH" YieldChangeId="Mountains_Food4"/>
+		<Row DistrictType="DISTRICT_BATH" YieldChangeId="Mountains_Food5"/>
+		<Row DistrictType="DISTRICT_BATH" YieldChangeId="District_Food"/>
+		<Row DistrictType="DISTRICT_BATH" YieldChangeId="River_Food"/>
+		<Row DistrictType="DISTRICT_BATH" YieldChangeId="Oasis_Food"/>
+	</District_Adjacencies>
+	<Adjacency_YieldChanges>
+		<Row ID="Mountains_Food1" Description="LOC_DISTRICT_MOUNTAINS_FOOD1" YieldType="YIELD_FOOD" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row ID="Mountains_Food2" Description="LOC_DISTRICT_MOUNTAINS_FOOD2" YieldType="YIELD_FOOD" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row ID="Mountains_Food3" Description="LOC_DISTRICT_MOUNTAINS_FOOD3" YieldType="YIELD_FOOD" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row ID="Mountains_Food4" Description="LOC_DISTRICT_MOUNTAINS_FOOD4" YieldType="YIELD_FOOD" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row ID="Mountains_Food5" Description="LOC_DISTRICT_MOUNTAINS_FOOD5" YieldType="YIELD_FOOD" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_SNOW_MOUNTAIN"/>
+		<Row ID="District_Food" Description="LOC_DISTRICT_DISTRICT_FOOD" YieldType="YIELD_FOOD" YieldChange="1" TilesRequired="1" OtherDistrictAdjacent="true"/>
+		<Row ID="River_Food" Description="LOC_DISTRICT_RIVER_FOOD" YieldType="YIELD_FOOD" YieldChange="2" TilesRequired="1" AdjacentRiver="true"/>
+		<Row ID="Oasis_Food" Description="LOC_DISTRICT_OASIS_FOOD" YieldType="YIELD_FOOD" YieldChange="2" TilesRequired="1" AdjacentFeature="FEATURE_OASIS"/>
+	</Adjacency_YieldChanges>
+	<District_GreatPersonPoints>
+		<Row DistrictType="DISTRICT_AQUEDUCT" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="1"/>
+		<Row DistrictType="DISTRICT_BATH" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="1"/>
+	</District_GreatPersonPoints>
+	<District_TradeRouteYields>
+		<Row DistrictType="DISTRICT_AQUEDUCT" YieldType="YIELD_FOOD" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="2" YieldChangeAsInternationalDestination="2"/>
+		<Row DistrictType="DISTRICT_BATH" YieldType="YIELD_FOOD" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="2" YieldChangeAsInternationalDestination="2"/>
+	</District_TradeRouteYields>
+	<District_CitizenYieldChanges>
+		<Row DistrictType="DISTRICT_AQUEDUCT" YieldType="YIELD_FOOD" YieldChange="4"/>
+		<Row DistrictType="DISTRICT_BATH" YieldType="YIELD_FOOD" YieldChange="4"/>
+	</District_CitizenYieldChanges>
+<!--Building Additions-->
+	<Types>
+		<Row Type="BUILDING_PUBLIC_BATHS" Kind="KIND_BUILDING" />
+		<Row Type="BUILDING_WATER_FILTRATION_PLANT" Kind="KIND_BUILDING" />
+	</Types>
+	<Buildings>
+		<Row BuildingType="BUILDING_PUBLIC_BATHS" Name="LOC_BUILDING_PUBLIC_BATHS_NAME" PrereqTech="TECH_ENGINEERING" PrereqDistrict="DISTRICT_AQUEDUCT" PurchaseYield="YIELD_GOLD" Cost="105" AdvisorType="ADVISOR_GENERIC" Maintenance="1" Housing="2" Entertainment="1" CitizenSlots="1"/>
+		<Row BuildingType="BUILDING_WATER_FILTRATION_PLANT" Name="LOC_BUILDING_WATER_FILTRATION_PLANT_NAME" Description="LOC_BUILDING_WATER_FILTRATION_PLANT_DESCRIPTION" PrereqTech="TECH_CHEMISTRY" PrereqDistrict="DISTRICT_AQUEDUCT" PurchaseYield="YIELD_GOLD" Cost="500" AdvisorType="ADVISOR_GENERIC" Maintenance="3" Housing="3" CitizenSlots="1"/>
+	<!--Sewer Changes-->
+		<Update>
+			<Where BuildingType="BUILDING_SEWER"/>
+			<Set PrereqDistrict="DISTRICT_AQUEDUCT" Cost="355" Housing="3" Entertainment="1" CitizenSlots="1"/>
+		</Update>
+	</Buildings>
+	<BuildingPrereqs>
+		<Row Building="BUILDING_SEWER" PrereqBuilding="BUILDING_PUBLIC_BATHS"/>
+		<Row Building="BUILDING_WATER_FILTRATION_PLANT" PrereqBuilding="BUILDING_SEWER"/>
+	</BuildingPrereqs>
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_WATER_FILTRATION_PLANT" YieldType="YIELD_FOOD" YieldChange="6"/>
+	</Building_YieldChanges>
+	<Building_GreatPersonPoints>
+		<Row BuildingType="BUILDING_WATER_FILTRATION_PLANT" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="1"/>
+	</Building_GreatPersonPoints>
+	<BuildingModifiers>
+		<Row>
+			<BuildingType>BUILDING_WATER_FILTRATION_PLANT</BuildingType>
+			<ModifierId>WATER_FILTRATION_PLANT_ADJUST_CITY_GROWTH</ModifierId>
+		</Row>
+	</BuildingModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>WATER_FILTRATION_PLANT_ADJUST_CITY_GROWTH</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_CITY_ADJUST_CITY_GROWTH</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>WATER_FILTRATION_PLANT_ADJUST_CITY_GROWTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+	</ModifierArguments>
+	<!--Policies - Coming Soon
+	<Types>
+		<Row Type="POLICY_IMPROVED_INFRASTRUCTURE" Kind="KIND_POLICY"/>
+		<Row Type="POLICY_SEPTIC_SYSTEM" Kind="KIND_POLICY"/>
+		<Row Type="POLICY_CITY_BEAUTIFICATION" Kind="KIND_POLICY"/>
+	</Types>
+	<Policies>
+		<Row PolicyType="POLICY_IMPROVED_INFRASTRUCTURE" Name="LOC_POLICY_IMPROVED_INFRASTRUCTURE_NAME" Description="LOC_POLICY_IMPROVED_INFRASTRUCTURE_DESCRIPTION" PrereqCivic="CIVIC_CIVIL_SERVICE" GovernmentSlotType="SLOT_ECONOMIC"/>
+		<Row PolicyType="POLICY_SEPTIC_SYSTEM" Name="LOC_POLICY_SEPTIC_SYSTEM_NAME" Description="LOC_POLICY_SEPTIC_SYSTEM_DESCRIPTION" PrereqCivic="CIVIC_URBANIZATION" GovernmentSlotType="SLOT_ECONOMIC"/>
+		<Row PolicyType="POLICY_CITY_BEAUTIFICATION" Name="LOC_POLICY_CITY_BEAUTIFICATION_NAME" Description="LOC_POLICY_CITY_BEAUTIFICATION_DESCRIPTION" PrereqCivic="CIVIC_CULTURAL_HERITAGE" GovernmentSlotType="SLOT_ECONOMIC"/>
+	</Policies>
+	<ObsoletePolicies>
+		<Row PolicyType="POLICY_CITY_BEAUTIFICATION" ObsoletePolicy="POLICY_SEPTIC_SYSTEM"/>
+	</ObsoletePolicies>
+	<PolicyModifiers>
+		<Row>
+			<PolicyType>POLICY_IMPROVED_INFRASTRUCTURE</PolicyType>
+			<ModifierId>IMPROVED_INFRASTRUCTURE_DISTRICT_FOOD</ModifierId>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_SEPTIC_SYSTEM</PolicyType>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_BATH</ModifierId>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_SEPTIC_SYSTEM</PolicyType>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_SEWER</ModifierId>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_SEPTIC_SYSTEM</PolicyType>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_PLANT</ModifierId>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_SEPTIC_SYSTEM</PolicyType>
+			<ModifierId>SEPTIC_SYSTEM_GROWTH</ModifierId>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CITY_BEAUTIFICATION</PolicyType>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_BATH</ModifierId>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CITY_BEAUTIFICATION</PolicyType>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_SEWER</ModifierId>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CITY_BEAUTIFICATION</PolicyType>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_PLANT</ModifierId>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CITY_BEAUTIFICATION</PolicyType>
+			<ModifierId>CITY_BEAUTIFICATION_GROWTH</ModifierId>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CITY_BEAUTIFICATION</PolicyType>
+			<ModifierId>CITY_BEAUTIFICATION_AQUEDUCT_AMENITY</ModifierId>
+		</Row>
+	</PolicyModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>IMPROVED_INFRASTRUCTURE_DISTRICT_FOOD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DISTRICTS_ADJUST_YIELD_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>DISTRICT_IS_AQUEDUCT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_BATH</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_HOUSING</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_SEWER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_HOUSING</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_PLANT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_HOUSING</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>SEPTIC_SYSTEM_GROWTH</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_CITY_ADJUST_CITY_GROWTH</ModifierType>
+			<SubjectRequirementSetId>CITY_HAS_AQUEDUCT_DISTRICT_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_AQUEDUCT_AMENITY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_POLICY_AMENITY</ModifierType>
+			<SubjectRequirementSetId>CITY_HAS_AQUEDUCT_DISTRICT_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_BATH</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_HOUSING</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_SEWER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_HOUSING</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_PLANT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_HOUSING</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_GROWTH</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_CITY_ADJUST_CITY_GROWTH</ModifierType>
+			<SubjectRequirementSetId>CITY_HAS_AQUEDUCT_DISTRICT_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>IMPROVED_INFRASTRUCTURE_DISTRICT_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>IMPROVED_INFRASTRUCTURE_DISTRICT_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_BATH</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_PUBLIC_BATHS</Value>
+		</Row>
+		<Row>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_BATH</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_SEWER</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_SEWER</Value>
+		</Row>
+		<Row>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_SEWER</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_PLANT</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_WATER_FILTRATION_PLANT</Value>
+		</Row>
+		<Row>
+			<ModifierId>SEPTIC_SYSTEM_HOUSING_PLANT</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>SEPTIC_SYSTEM_GROWTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_BATH</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_PUBLIC_BATHS</Value>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_BATH</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_SEWER</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_SEWER</Value>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_SEWER</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_PLANT</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_WATER_FILTRATION_PLANT</Value>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_HOUSING_PLANT</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_GROWTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>CITY_BEAUTIFICATION_AQUEDUCT_AMENITY</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+	</ModifierArguments>
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>CITY_HAS_AQUEDUCT_DISTRICT_REQUIREMENT</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>CITY_HAS_AQUEDUCT_DISTRICT_REQUIREMENT</RequirementSetId>
+			<RequirementId>REQUIRES_CITY_HAS_AQUEDUCT_DISTRICT</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+	<Requirements>
+		<Row>
+			<RequirementId>REQUIRES_CITY_HAS_AQUEDUCT_DISTRICT</RequirementId>
+			<RequirementType>REQUIREMENT_CITY_HAS_DISTRICT</RequirementType>
+		</Row>
+	</Requirements>
+	<RequirementArguments>
+		<Row>
+			<RequirementId>REQUIRES_CITY_HAS_AQUEDUCT_DISTRICT</RequirementId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_AQUEDUCT</Value>
+		</Row>
+	</RequirementArguments>-->
+	<!--City Projects - Coming Soon
+	<Types>
+		<Row Type="PROJECT_ENHANCE_DISTRICT_AQUEDUCT" Kind="KIND_PROJECT"/>
+	</Types>
+	<Projects>
+		<Row ProjectType="PROJECT_ENHANCE_DISTRICT_AQUEDUCT" Name="LOC_PROJECT_ENHANCE_DISTRICT_AQUEDUCT_NAME" ShortName="LOC_PROJECT_ENHANCE_DISTRICT_AQUEDUCT_SHORT_NAME" Description="LOC_PROJECT_ENHANCE_DISTRICT_AQUEDUCT_DESCRIPTION" PrereqDistrict="DISTRICT_AQUEDUCT" Cost="25" AdvisorType="ADVISOR_TECHNOLOGY" CostProgressionModel="COST_PROGRESSION_GAME_PROGRESS" CostProgressionParam1="1500"/>
+	</Projects>
+	<Project_GreatPersonPoints>
+		<Row ProjectType="PROJECT_ENHANCE_DISTRICT_AQUEDUCT" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" Points="5" PointProgressionModel="COST_PROGRESSION_GAME_PROGRESS" PointProgressionParam1="800"/>
+		<Row ProjectType="PROJECT_ENHANCE_DISTRICT_AQUEDUCT" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" Points="5" PointProgressionModel="COST_PROGRESSION_GAME_PROGRESS" PointProgressionParam1="800"/>
+	</Project_GreatPersonPoints>
+	<Project_YieldConversions>
+		<Row ProjectType="PROJECT_ENHANCE_DISTRICT_AQUEDUCT" YieldType="YIELD_FOOD" PercentOfProductionRate="30"/>
+	</Project_YieldConversions>-->
+</GameData>

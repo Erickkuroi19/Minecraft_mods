@@ -1,0 +1,2 @@
+UPDATE DiplomaticActions SET InitiatorPrereqCivic='CIVIC_POLITICAL_PHILOSOPHY', 
+TargetPrereqCivic='CIVIC_POLITICAL_PHILOSOPHY' WHERE DiplomaticActionType LIKE 'DIPLOACTION_ALLIANCE%';

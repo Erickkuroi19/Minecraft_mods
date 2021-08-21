@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d7de0a94-3280-42d5-aad0-10daf92cfa2f" version="1">
+  <Properties>
+    <Name>Farms Plus Plus</Name>
+    <Description>Improves farms to give 1 housing each (up from 0.5).
+Additionally allows Farms to be built on Cattle, Citrus, and Bananas.</Description>
+    <Created>1592004316</Created>
+    <Teaser>Improves farms to give 1 housing each (up from 0.5).
+Additionally allows Farms to be built on Cattle, Citrus, and Bananas.</Teaser>
+    <Authors>Angryr</Authors>
+    <CompatibleVersions>2.0</CompatibleVersions>
+  </Properties>
+  <References>
+    <Mod id="E3F53C61-371C-440B-96CE-077D318B36C0" title="DLC: Australia Civilization Pack" />
+    <Mod id="02A8BDDE-67EA-4D38-9540-26E685E3156E" title="DLC: Aztec Civilization Pack" />
+    <Mod id="1F367231-A040-4793-BDBB-088816853683" title="DLC: Khmer and Indonesia Civilization Pack" />
+    <Mod id="643EA320-8E1A-4CF1-A01C-00D88DDD131A" title="DLC: Nubia Civilization Pack" />
+    <Mod id="E2749E9A-8056-45CD-901B-C368C8E83DEB" title="DLC: Persia and Macedon Civilization Pack" />
+    <Mod id="3809975F-263F-40A2-A747-8BFB171D821A" title="DLC: Poland Civilization Pack" />
+    <Mod id="2F6E858A-28EF-46B3-BEAC-B985E52E9BC1" title="DLC: Vikings Content" />
+    <Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="Expansion: Gathering Storm" />
+    <Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="Expansion: Rise and Fall" />
+    <Mod id="F653805E-F7C8-44E1-8CBD-FB48D7AABCBA" title="Multiplayer Scenario: Ancient Rivals" />
+    <Mod id="{5E991A08-08FD-4774-968B-A85377ECF60D}" title="Multiplayer Scenario: Cavalry and Cannonades" />
+    <Mod id="648CD2A8-057A-4EB5-9E41-E1F7D86B5443" title="Multiplayer Scenario: Global Thermonuclear War" />
+    <Mod id="{455B6E2D-821D-4D49-9FCD-FC950AC6A521}" title="Multiplayer Scenario: Hallowed Ground" />
+    <Mod id="5B0445C9-1376-45AD-9B51-C96A83A8F17D" title="Multiplayer Scenario: War Machine" />
+    <Mod id="2F3A65C2-0883-4BF6-8C70-EDA688C66F3C" title="Scenario: Conquests of Alexander" />
+    <Mod id="7619F77B-BAA7-4912-AA6E-45C124E6ECFD" title="Scenario: Gifts of the Nile" />
+    <Mod id="D70C8F1F-3954-460F-A9D9-09498BF773C9" title="Scenario: Outback Tycoon" />
+    <Mod id="8550ED6C-E370-426C-80CD-AB4B46B201DD" title="Scenario: Path to Nirvana" />
+    <Mod id="C1F775D8-59B5-401B-B86D-78FAF3446EC7" title="Scenario: The Black Death" />
+    <Mod id="05698E46-1032-43C7-A40C-FA3D02858D2A" title="Scenario: Vikings, Traders, and Raiders!" />
+  </References>
+  <InGameActions>
+    <UpdateDatabase id="Farms">
+      <Properties>
+        <LoadOrder>999999</LoadOrder>
+      </Properties>
+      <File>Farms.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>Farms.sql</File>
+  </Files>
+</Mod>

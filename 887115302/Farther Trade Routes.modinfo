@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="595404a0-f03e-425b-b652-e841ae5590c3" version="1">
+  <Properties>
+    <Name>Farther Trade Routes</Name>
+    <Description>Increase land trade route range from 15 to 40 tiles. Increased sea trade route range from 30 to 75.</Description>
+    <Teaser>Increase range for trade routes.</Teaser>
+    <Authors>leatherneck6017</Authors>
+  </Properties>
+  <InGameActions>
+    <UpdateDatabase id="NewAction">
+      <File>FartherTradeRoutes.xml</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>FartherTradeRoutes.xml</File>
+  </Files>
+</Mod>

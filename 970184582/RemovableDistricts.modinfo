@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7ce74c28-41ba-4453-b3d1-d30ef8013887" version="0.1">
+  <Properties>
+    <Name>[COLOR_FLOAT_SCIENCE]Removable Districts[ENDCOLOR]</Name>
+    <Description>Makes available city projects which when completed will remove the corrosponding district from the city.[NEWLINE][NEWLINE]These districts cannot be removed:[NEWLINE]City Center[NEWLINE]Neighborhood[NEWLINE]Any unique Neighborhood replacement[NEWLINE]Wonders</Description>
+    <Teaser>Remove districts through use of city projects.</Teaser>
+    <Authors>TC, qqqbbb</Authors>
+	  <SpecialThanks>Wiseguy, gBazov, Horem</SpecialThanks>
+    <CompatibleVersions>2.0</CompatibleVersions>
+  </Properties>
+  <InGameActions>
+    <UpdateDatabase id="RD_Gameplay">
+      <Properties>
+        <LoadOrder>9999998</LoadOrder>
+      </Properties>
+      <File>RemovableDistricts.sql</File>
+    </UpdateDatabase>
+    <UpdateText id="RD_TextChanges">
+      <Properties>
+        <LoadOrder>9999999</LoadOrder>
+      </Properties>
+      <File>RemovableDistricts_text.sql</File>
+    </UpdateText>
+	  <ImportFiles id="RD_Icon_Import">
+      <Properties>
+        <LoadOrder>1</LoadOrder>
+      </Properties>
+		  <Items>
+			  <File>Icons/RemovableDistricts32.dds</File>
+			  <File>Icons/RemovableDistricts38.dds</File>
+			  <File>Icons/RemovableDistricts50.dds</File>
+			  <File>Icons/RemovableDistricts80.dds</File>
+			  <File>Icons/RemovableDistricts128.dds</File>
+			  <File>Icons/RemovableDistricts256.dds</File>
+		  </Items>
+	  </ImportFiles>
+    <Icons id="RD_Icons">
+      <Properties>
+        <LoadOrder>9999999</LoadOrder>
+      </Properties>
+      <File>RemovableDistricts_Icons.xml</File>
+    </Icons>
+    <AddGameplayScripts id="RD_Lua">
+      <File>RemovableDistricts.lua</File>
+    </AddGameplayScripts>
+  </InGameActions>
+  <Files>
+    <File>RemovableDistricts.sql</File>
+    <File>RemovableDistricts_Icons.xml</File>
+    <File>RemovableDistricts.lua</File>
+    <File>RemovableDistricts_text.sql</File>
+	  <File>Icons/RemovableDistricts32.dds</File>
+	  <File>Icons/RemovableDistricts38.dds</File>
+	  <File>Icons/RemovableDistricts50.dds</File>
+	  <File>Icons/RemovableDistricts80.dds</File>
+	  <File>Icons/RemovableDistricts128.dds</File>
+	  <File>Icons/RemovableDistricts256.dds</File>
+  </Files>
+</Mod>

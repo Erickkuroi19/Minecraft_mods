@@ -1,0 +1,93 @@
+<GameData><LocalizedText>
+<Replace Language="ja_JP" Tag="LOC_ABILITY_AUTOMATIC_GUNFIRE_DESCRIPTION"><Text>+8 [ICON_Strength] Combat Strength against Melee, Anti Cavalry and Light Cavalry units.</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_ABILITY_CITY_CENTER_NERF_DESCRIPTION"><Text>-6 [ICON_Strength] Combat Strength against Districts.</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_ABILITY_EXPLORER_DESCRIPTION"><Text>Ignores rivers when moving and has no disembark cost.</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_ABILITY_PLUS_X_WHEN_DEFENDING_DESCRIPTION"><Text>+8 [ICON_Strength] Combat Strength when defending.</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_ABILITY_PRE_GUNPOWDER_MELEE_ATTACK_DESCRIPTION"><Text>+6 [ICON_Strength] Combat Strength against pre-Gunpowder Melee units on non-District tiles.</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_1"><Text> コグ船とは10世紀に登場し、12世紀頃に広く用いられた船である。船体はプロイセンのオーク材で鎧張りし、1本のマストには1枚の横帆を備えていた。中世ヨーロッパでは海洋交易に利用され、特にバルト海のハンザ同盟が活用していた。長さは15メートルから25メートル、幅は5メートルから8メートルに及び、大型のものは約200トンの荷物を運ぶことができた。 </Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_1"><Text>胸甲騎兵 (キュラシエ) は、火器と鎧を装備した騎兵である。元々はフランス語であり、キュイラス (胸当て) を身につけた者という意味であった。15世紀後半に登場した胸甲騎兵は、重騎兵や準槍騎兵といった重装騎兵から発展したものであり、ピストルを主要武器として用いていた。17世紀後半になると鎧の脚部を取り払い、次第に胸甲のみ、あるいは胸甲と兜のみを装備するようになった。この頃までには剣が主要武器となり、ピストルは二次的な地位に追いやられた。 </Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_1"><Text>探検とは、情報や資源の発見を目的とする調査活動を指す。人間を含むあらゆる動物は探検を行う。人類史において、探検が最も活発に行われたのは大航海時代である。この時期は、ヨーロッパ人探検家が富を求めて航海に乗り出し、世界の大部分を地図に記した。これ以後の主要な探検は、主に情報の発見を目的にして行われた。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_1"><Text> ガレアス船は軍艦の一種である。旧来のガレー船を改良し、装甲を厚くするなどの工夫を凝らした結果、16世紀に一世を風靡した。オールで漕ぐ商船にマストと帆を加えて、軍用転換したものが多かった。ガレアス船は推進力を2種類持つことで、旧来のガレー船が誇るスピードをほとんど低下させることなく、大砲を装備して敵を撃退することができた。 </Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_1"><Text> ガトリング砲は機関銃の先駆けであり、1861年にアメリカ人医師リチャード・ガトリングによって考案された。その目的は、軍隊の規模を縮小するとともに、戦争の不毛さを示すことだった。ガトリング砲はクランクを手で回し、環状に配置された複数の銃身を回転させて銃撃を行う。銃身が回転することで、空薬莢の排出、新しい弾薬の装填、銃口・銃身の冷却が行われる仕組みだ。これにより、銃身を加熱させることなく高速射撃を行うことが可能になった。ガトリング砲は命中精度こそ乏しかったが、威力はそれを補って余りあるものだった。 </Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_2"><Text> ガトリング砲が合衆国軍に正式採用されたのは1866年だが、独立戦争当時、連邦軍(北軍)によってすでに実戦で使用されていた。次いでペルーとチリが戦った南米の太平洋戦争(1879年～1883年)で使用されると、大軍に対するその有用性が欧州各国の軍隊にも浸透した。以後10年で、ガトリング砲は世界の列強の大半に採用され、列強による植民地の拡大で存分に威力を発揮した。その銃口が向けられたのは、ヌデベレ族、ズールー族、ベドウィン、トルクメン族、義和団員をはじめとする世界各地の原住民である。1910年代、ガス圧を利用した「機関」銃の登場によってガトリング砲は時代遅れとなり、1911年にはアメリカ軍が全モデルの使用を終了し、まもなくヨーロッパ諸国もこれに続いた。 </Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1"><Text> 長剣は、中世/ルネサンス時代の戦場で最も万能な武器であった。長槍よりも軽くて扱いやすく、片手でも両手でも使えるため、剣士が盾を装備することもできた。長槍兵と1対1で戦う場合、長剣士はかなり不利な立場となり、攻撃可能な距離に近づくこともできないうちに長い武器による犠牲者が多く出た。しかしながら、長剣士隊は長槍兵よりも機動力が高いため、側面から敵を攻撃することができれば、長槍兵は命を落とすことになった。 </Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_1"><Text> 戦争の中で、初めて効果的に利用された馬はチャリオットを引いていた。中央アジアの遊牧民族は、おそらく紀元前2000年よりも前からすでに馬に乗っていた。確かに使者や斥候を送る際に騎兵を利用していたが、(鞍に立ち上がった時に乗り手の体重を分散する)堅固な鞍と、両足にかけられるあぶみが普及するまでは効果的な戦闘部隊にはならなかった。戦闘に適した、鞍と2つのあぶみの組み合わせで最も初期のものは中国で見つかっており、紀元300年頃から4世紀にわたりアジアおよびヨーロッパへと広まった。 </Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_2"><Text>初期の戦闘騎兵は槍や剣を装備していた。技術が進歩し大型で強い馬が繁殖されるにつれ、騎兵はより強力な武器と重い鎧を装備するようになった。そしてその頂点には、中世の戦場における大立者としてよく知られる、中世騎士が存在したのである。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_1"><Text>迫撃砲は、短距離・低速度・高角度で砲弾を射出する兵器である。典型的には前装式で、砲身は口径の15倍未満の長さの滑腔砲であることが多い。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_1"><Text> ライフルは肩から発射するようデザインされた銃である。銃身の内部には、発射する際に弾丸が回転するよう設計された「施条」と呼ばれる溝があり、施条がないライフルで撃った弾丸よりもさらに射距離と正確性が高まった。ヨーロッパでライフルの銃身に対する最初の試みを行ったのは15世紀だったが、製造が難しかったため、汎用化したのは19世紀に入ってからだった。イギリスとアメリカのスカーミッシュ兵や斥候は、ナポレオン戦争/米英戦争の間ライフルマスケットを装備していたが、装填に時間がかかることから、その後数年で通常の歩兵には使われなくなった。 </Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_2"><Text> 「ミニエー弾」の発明によって装填時間が大幅に短縮され、アメリカ南北戦争までにヨーロッパの主要な軍隊はみなライフルマスケットを使用するようになった。南北戦争が終結する頃には、後装式の連発ライフル銃が登場し、ライフルマスケットは陳腐化していった。前装式のライフルの射撃率が、よく訓練された兵士でも1発につき20秒から30秒かかるのに比べ、後装式の連発ライフル銃は射撃率が1秒ほど(撃鉄を引いて引き金を引くのと同じ速さ)であった。 </Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_1"><Text>自走砲は、単独で標的に向かって移動するための推進システムを搭載した大砲であり、この範疇には自動推進式大砲やロケット砲が含まれる。高機動の車両であり、多くはキャタピラ式である。巨大な榴弾砲やその他の野戦砲あるいは追撃砲、ロケット、ミサイル・ランチャーを装備している。戦場での長距離間接支援砲撃のために使用されることが多い。 </Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_1"><Text> トレビュシェットは中世の強力な攻城用兵器である。12世紀のヨーロッパで最初に使用されたトレビュシェットは、離れた場所から140キログラムほどのミサイルを敵の城壁めがけて、あるいは城壁の向こうへと投げ込むことができた。中世ヨーロッパ型のトレビュシェットは「カウンターウェイト」機械であった。非常に長い木製アームの一端には投石器が、もう一端には重りがついていて、それが重厚な木枠に取り付けられている。長いアームを巻き上げ、重りを持ち上げて下ろし、投石器にミサイルを入れる。発射の時には、重りが下りてきてアームが勢いよく空へ上がり、ミサイルがはるか遠くまで投げ込まれるのである。この機械は移動ができないのが一般的で、組み立てにも時間がかかるため、長引く攻撃での有効利用に限られていた。 </Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_COG_DESCRIPTION"><Text>中世の近接戦闘海洋ユニット。「地図製作法」を研究するまでは沿岸部でしか活動できない。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_COG_NAME"><Text>コグ船</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION"><Text>機動力の高い強力な産業時代の重騎兵ユニット。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME"><Text>胸甲騎兵</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_EXPLORER_DESCRIPTION"><Text>移動速度に優れているルネサンス時代の偵察ユニット。[NEWLINE]渡河時や乗船時に移動力ペナルティを負わない。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_EXPLORER_NAME"><Text>探検家</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_GALLEASS_DESCRIPTION"><Text>中世の長距離戦闘海洋ユニット。防御時に [ICON_Strength] 戦闘力+8。「地図製作法」を研究するまでは沿岸部でしか活動できない。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_GALLEASS_NAME"><Text>ガレアス船</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION"><Text>産業時代の長距離戦闘ユニット。[NEWLINE][NEWLINE]近接戦闘ユニット、対騎兵ユニット、軽騎兵ユニットに対して [ICON_Strength] 戦闘力+8。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_GATLING_GUN_NAME"><Text>ガトリング砲</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION"><Text>中世の近接戦闘ユニット。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_LONGSWORDSMAN_NAME"><Text>長剣士</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION"><Text>原子力時代の長距離戦闘ユニット。[NEWLINE][NEWLINE]近接戦闘ユニット、対騎兵ユニット、軽騎兵ユニットに対して [ICON_Strength] 戦闘力+8。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION"><Text>移動速度に優れている中世の軽騎兵ユニット。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME"><Text>コーサー</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_MORTAR_DESCRIPTION"><Text>原子力時代の長距離戦闘ユニット。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_MORTAR_NAME"><Text>迫撃砲</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION"><Text>産業時代の近接戦闘ユニット。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_RIFLEMAN_NAME"><Text>ライフル兵</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION"><Text>情報時代の長距離戦闘ユニット。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME"><Text>ロケット砲</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION"><Text>情報時代の砲撃ユニット。都市を攻撃する際に力を発揮する。[NEWLINE]同じターンに移動と攻撃の両方をおこなえる。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME"><Text>自走砲</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_TREBUCHET_DESCRIPTION"><Text>中世の砲撃ユニット。都市を攻撃する際に力を発揮する。[NEWLINE]「熟練搭乗員」レベルアップを獲得しない限り、同じターンに移動と攻撃の両方をおこなうことはできない。</Text></Replace>
+<Replace Language="ja_JP" Tag="LOC_UNIT_TREBUCHET_NAME"><Text>トレビュシェット</Text></Replace>
+<Replace Language="ja_JP" Tag="MINUS_X_VS_CITY_CENTERS_DESC"><Text>区域に対して-6</Text></Replace>
+<Replace Language="ja_JP" Tag="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC"><Text>軽騎兵ユニットに対して+15</Text></Replace>
+<Replace Language="ja_JP" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"><Text>重騎兵ユニットに対して+20</Text></Replace>
+<Replace Language="ja_JP" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC"><Text>近接戦闘、対騎兵、軽騎兵ユニットに対して+8</Text></Replace>
+<Replace Language="ja_JP" Tag="PLUS_X_VS_PRE_GUNPOWDER_MELEE_DESC"><Text>区域以外にいる火薬前の近接戦闘ユニットに対して+6</Text></Replace>
+<Replace Language="ja_JP" Tag="PLUS_X_WHEN_DEFENDING_DESC"><Text>防御時に [ICON_Strength] 戦闘力+8</Text></Replace>
+</LocalizedText></GameData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Farther Trade Routes - leatherneck6017 -->
+
+<GameInfo>
+
+	<GlobalParameters>
+
+		<Update>
+			<Where Name="TRADE_ROUTE_BASE_RANGE"/>
+			<Set Value="40"/>
+		</Update>
+		
+		<Update>
+			<Where Name="TRADE_ROUTE_LAND_RANGE_REFUEL"/>
+			<Set Value="40"/>
+		</Update>
+		
+		<Update>
+			<Where Name="TRADE_ROUTE_WATER_RANGE_REFUEL"/>
+			<Set Value="75"/>
+		</Update>
+
+	</GlobalParameters>
+
+</GameInfo>

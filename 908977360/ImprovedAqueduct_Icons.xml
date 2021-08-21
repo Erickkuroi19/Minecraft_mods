@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ImprovedAqueduct_Icons -->
+<!-- Author: Daniel -->
+<!-- DateCreated: 4/19/2017 1:54:20 PM -->
+<GameData>
+	<IconDefinitions>
+		<Row Name="ICON_BUILDING_PUBLIC_BATHS" Atlas="ICON_ATLAS_BUILDINGS" Index="19"/>
+		<Row Name="ICON_BUILDING_WATER_FILTRATION_PLANT" Atlas="ICON_ATLAS_BUILDINGS" Index="27"/>
+	</IconDefinitions>
+</GameData>

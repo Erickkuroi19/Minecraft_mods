@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::GameDependencyData>
+    <ID>
+        <name text="MoarUniqueUnits"/>
+        <id text="a1fe0ce2-ca98-4998-a0c9-2aa1639eb6d0"/>
+    </ID>
+    <RequiredGameArtIDs>
+        <Element>
+            <name text="Civ6"/>
+            <id text="cb2f71b7-843e-4af3-9ca7-992acda9c195"/>
+        </Element>
+    </RequiredGameArtIDs>
+    <SystemDependencies>
+        <Element>
+            <ConsumerName text="Units"/>
+            <ArtDefDependencyPaths>
+                <Element text="Units.artdef"/>
+                <Element text="Unit_Bins.artdef"/>
+            </ArtDefDependencyPaths>
+            <LibraryDependencies>
+                <Element text="Unit"/>
+                <Element text="VFX"/>
+                <Element text="Light"/>
+            </LibraryDependencies>
+            <LoadsLibraries>true</LoadsLibraries>
+        </Element>
+        <Element>
+            <ConsumerName text="VFX"/>
+            <ArtDefDependencyPaths/>
+            <LibraryDependencies>
+                <Element text="VFX"/>
+                <Element text="Light"/>
+            </LibraryDependencies>
+            <LoadsLibraries>true</LoadsLibraries>
+        </Element>
+    </SystemDependencies>
+    <ArtDefDependencies>
+        <Element>
+            <ArtDefPath text="Units.artdef"/>
+            <ArtDefDependencyPaths>
+                <Element text="Units.artdef"/>
+            </ArtDefDependencyPaths>
+        </Element>
+        <Element>
+            <ArtDefPath text="Unit_Bins.artdef"/>
+            <ArtDefDependencyPaths/>
+        </Element>
+        <Element>
+            <ArtDefPath text="VFX.artdef"/>
+            <ArtDefDependencyPaths/>
+        </Element>
+    </ArtDefDependencies>
+    <LibraryDependencies>
+        <Element>
+            <LibraryName text="Unit"/>
+            <PackageDependencies>
+                <Element text="units/uniqueUnits.blp"/>
+                <Element text="units/newFrontierUnits.blp"/>
+            </PackageDependencies>
+        </Element>
+        <Element>
+            <LibraryName text="VFX"/>
+            <PackageDependencies>
+                <Element text="uniqueUnitsVFX.blp"/>
+            </PackageDependencies>
+        </Element>
+        <Element>
+            <LibraryName text="UITexture"/>
+            <PackageDependencies>
+                <Element text="UI/Icons.blp"/>
+            </PackageDependencies>
+        </Element>
+    </LibraryDependencies>
+</AssetObjects::GameDependencyData>

@@ -1,0 +1,44 @@
+<GameData>
+	<Improvement_YieldChanges>
+
+	<!-- Base Improvements -->
+		
+		<Update>
+			<Where ImprovementType="IMPROVEMENT_FARM" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ImprovementType="IMPROVEMENT_PLANTATION" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ImprovementType="IMPROVEMENT_FISHING_BOATS" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ImprovementType="IMPROVEMENT_PASTURE" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="1"/>
+		</Update>
+
+	<!-- Unique Improvements -->
+
+		<Update>
+			<Where ImprovementType="IMPROVEMENT_STEPWELL" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ImprovementType="IMPROVEMENT_OUTBACK_STATION" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ImprovementType="IMPROVEMENT_KAMPUNG" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="1"/>
+		</Update>
+
+	</Improvement_YieldChanges>
+</GameData>

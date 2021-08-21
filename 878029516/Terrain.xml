@@ -1,0 +1,42 @@
+<GameData>
+	<Terrain_YieldChanges>
+
+		<Update>
+			<Where TerrainType="TERRAIN_GRASS" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="3"/>
+		</Update>
+
+		<Update>
+			<Where TerrainType="TERRAIN_GRASS_HILLS" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="3"/>
+		</Update>
+
+		<Update>
+			<Where TerrainType="TERRAIN_PLAINS" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where TerrainType="TERRAIN_PLAINS_HILLS" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+	<!-- Water Tiles -->
+		
+		<Update>
+			<Where TerrainType="TERRAIN_COAST" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where TerrainType="TERRAIN_LAKE" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where TerrainType="TERRAIN_OCEAN" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+	</Terrain_YieldChanges>
+</GameData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ca1f8b5b-12e3-4c22-8e7f-835fff8294cf" version="1">
+  <Properties>
+    <Name>Starting Scout</Name>
+    <Description>This mod makes it so you spawn with a scout in addition to the starting warrior and settler.</Description>
+    <Teaser>Makes you start with a scout.</Teaser>
+    <Authors>NoShotz</Authors>
+    <AffectsSavedGames>1</AffectsSavedGames>
+	<CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <InGameActions>
+    <UpdateDatabase id="NewAction">
+      <File priority="1">StartingScout.xml</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>StartingScout.xml</File>
+  </Files>
+</Mod>

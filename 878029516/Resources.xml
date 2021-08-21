@@ -1,0 +1,81 @@
+<GameData>
+	<Resource_YieldChanges>
+
+	<!-- Bonus Resources -->
+
+		<Update>
+			<Where ResourceType="RESOURCE_WHEAT" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ResourceType="RESOURCE_RICE" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ResourceType="RESOURCE_BANANAS" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ResourceType="RESOURCE_DEER" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ResourceType="RESOURCE_SHEEP" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ResourceType="RESOURCE_CATTLE" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ResourceType="RESOURCE_FISH" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ResourceType="RESOURCE_CRABS" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+	<!-- Strategic Resources -->
+
+		<Update>
+			<Where ResourceType="RESOURCE_HORSES" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+		<Update>
+			<Where ResourceType="RESOURCE_NITER" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+
+	<!-- Luxury Resources -->
+
+		<Update>
+			<Where ResourceType="RESOURCE_CITRUS" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="3"/>
+		</Update>
+
+		<Update>
+			<Where ResourceType="RESOURCE_SPICES" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="3"/>
+		</Update>
+
+		<Update>
+			<Where ResourceType="RESOURCE_SUGAR" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="3"/>
+		</Update>
+
+		<Update>
+			<Where ResourceType="RESOURCE_WINE" YieldType="YIELD_FOOD"/>
+			<Set YieldChange="2"/>
+		</Update>
+		
+	</Resource_YieldChanges>
+</GameData>

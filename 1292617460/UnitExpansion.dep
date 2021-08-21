@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::GameDependencyData>
+    <ID>
+        <name text="UnitExpansion"/>
+        <id text="01159f41-7ca0-4181-84cf-2f2c912edfdd"/>
+    </ID>
+    <RequiredGameArtIDs>
+        <Element>
+            <name text="Civ6"/>
+            <id text="cb2f71b7-843e-4af3-9ca7-992acda9c195"/>
+        </Element>
+    </RequiredGameArtIDs>
+    <SystemDependencies>
+        <Element>
+            <ConsumerName text="Units"/>
+            <ArtDefDependencyPaths>
+                <Element text="Units.artdef"/>
+                <Element text="Unit_Bins.artdef"/>
+            </ArtDefDependencyPaths>
+            <LibraryDependencies>
+                <Element text="Unit"/>
+                <Element text="VFX"/>
+                <Element text="Light"/>
+            </LibraryDependencies>
+            <LoadsLibraries>true</LoadsLibraries>
+        </Element>
+        <Element>
+            <ConsumerName text="VFX"/>
+            <ArtDefDependencyPaths/>
+            <LibraryDependencies>
+                <Element text="VFX"/>
+                <Element text="Light"/>
+            </LibraryDependencies>
+            <LoadsLibraries>true</LoadsLibraries>
+        </Element>
+    </SystemDependencies>
+    <ArtDefDependencies>
+        <Element>
+            <ArtDefPath text="Units.artdef"/>
+            <ArtDefDependencyPaths>
+                <Element text="Units.artdef"/>
+            </ArtDefDependencyPaths>
+        </Element>
+        <Element>
+            <ArtDefPath text="Unit_Bins.artdef"/>
+            <ArtDefDependencyPaths/>
+        </Element>
+        <Element>
+            <ArtDefPath text="VFX.artdef"/>
+            <ArtDefDependencyPaths/>
+        </Element>
+    </ArtDefDependencies>
+    <LibraryDependencies>
+        <Element>
+            <LibraryName text="Unit"/>
+            <PackageDependencies>
+                <Element text="units/extraUnits.blp"/>
+                <Element text="units/unitExpansion.blp"/>
+            </PackageDependencies>
+        </Element>
+        <Element>
+            <LibraryName text="VFX"/>
+            <PackageDependencies>
+                <Element text="unitExpansionVFX.blp"/>
+            </PackageDependencies>
+        </Element>
+        <Element>
+            <LibraryName text="UITexture"/>
+            <PackageDependencies>
+                <Element text="UI/Icons.blp"/>
+            </PackageDependencies>
+        </Element>
+    </LibraryDependencies>
+</AssetObjects::GameDependencyData>

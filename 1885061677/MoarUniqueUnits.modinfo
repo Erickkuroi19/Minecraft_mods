@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e92beb41-e18d-48f2-97fc-1085a4edec35">
+    <Properties>
+        <Name>LOC_RED_MODPACK_STUU_NAME</Name>
+        <Teaser>LOC_RED_MODPACK_STUU_DESC</Teaser>
+        <Description>LOC_RED_MODPACK_STUU_DESC</Description>
+        <Authors>Grimes, Deliverator, Gedemon, GeloDGreat</Authors>
+        <CompatibleVersions>2.0</CompatibleVersions>
+    </Properties>
+    <LocalizedText>
+        <Text id="LOC_RED_MODPACK_STUU_NAME">
+            <en_US>R.E.D. Steel and Thunder: Unique Units</en_US>
+        </Text>
+        <Text id="LOC_RED_MODPACK_STUU_DESC">
+            <en_US>Units rescaling and formations for Steel and Thunder Unique Units.</en_US>
+        </Text>
+    </LocalizedText>
+    <Dependencies>
+        <Mod id="a1fe0ce2-ca98-4998-a0c9-2aa1639eb6d0" title="Steel and Thunder: Unique Units" />
+		<Mod id="8670da15-d435-44ea-9758-7438cb321411" title="R.E.D. Modpack" />
+    </Dependencies>
+    <Files>
+        <File>REDSTUU.dep</File>
+    </Files>
+    <Components>
+        <ModArt id="REDSTUU_ART">
+            <Items>
+                <File>REDSTUU.dep</File>
+            </Items>
+        </ModArt>
+    </Components>
+</Mod>

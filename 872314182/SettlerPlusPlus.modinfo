@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="009e6cdf-9cd1-4eaf-8969-a09a0f64af6c" version="1">
+  <Properties>
+    <Name>Settler++</Name>
+    <Description>Settlers have +3 movement, +2 vision, and +10 cost (5 movement, 5 vision, and 90 cost in total).</Description>
+    <Teaser>Settlers have +3 movement, +2 vision, and +10 cost (5 movement, 5 vision, and 90 cost in total).</Teaser>
+    <Authors>Angryr</Authors>
+	<CompatibleVersions>2.0</CompatibleVersions>
+  </Properties>
+  <InGameActions>
+    <UpdateDatabase id="Settler">
+      <File>Settler.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>Settler.sql</File>
+  </Files>
+</Mod>

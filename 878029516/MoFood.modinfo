@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0519ef95-f0ff-4432-9814-f47dda9934d2" version="2">
+  <Properties>
+    <Name>Mo' Food</Name>
+    <Description>Increases output yields on terrain, various resources and buildings. Check the workshop page for more info.</Description>
+    <CustomProperties></CustomProperties>
+    <Teaser>Increased output yields from terrain, resources, and buildings!</Teaser>
+    <Authors>Gabe_oz</Authors>
+	<CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <FrontEndActions>
+    <UpdateDatabase id="MoFood">
+      <File>Buildings.xml</File>
+      <File>Improvements.xml</File>
+      <File>Resources.xml</File>
+      <File>Terrain.xml</File>
+      <File>DesertTiles.sql</File>
+    </UpdateDatabase>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="MoFood">
+      <File>Buildings.xml</File>
+      <File>Improvements.xml</File>
+      <File>Resources.xml</File>
+      <File>Terrain.xml</File>
+      <File>DesertTiles.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>Buildings.xml</File>
+    <File>DesertTiles.sql</File>
+    <File>Improvements.xml</File>
+    <File>Resources.xml</File>
+    <File>Terrain.xml</File>
+  </Files>
+</Mod>

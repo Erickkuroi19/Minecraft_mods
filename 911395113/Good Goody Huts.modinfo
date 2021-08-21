@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="684f1b2d-7ad2-4ebc-b92f-7e0df05e9eba" version="1">
+  <Properties>
+    <Name>Good Goody Huts</Name>
+    <Description>Goody Huts are improved, and here's how:[NEWLINE]-- Twice as many, and can cluster[NEWLINE]-- Better rewards appear more often than before[NEWLINE]-- Scouts no longer appear too often[NEWLINE]-- All rewards can be found from start of game[NEWLINE](i.e. Traders, Builders)[NEWLINE]-- No longer need city to collect Gold &amp; Faith rewards[NEWLINE]-- Award twice the experience when claimed (Note: Only explorer type units gain experiece for claiming a Goody Hut)[NEWLINE]-- Every Goody Hut yields +20 gold (in addition to the reward)[NEWLINE]-- And more. Read description on Steam Workshop for more details.</Description>
+    <Teaser>Better Goody Huts</Teaser>
+    <Authors>Harmonica</Authors>
+	<CompatibleVersions>2.0</CompatibleVersions>
+  </Properties>
+  <InGameActions>
+    <UpdateDatabase id="NewAction">
+      <File>Goody Huts.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>Goody Huts.sql</File>
+  </Files>
+</Mod>

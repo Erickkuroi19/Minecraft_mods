@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="95a19601-3019-43c6-95a9-ee008d52c10f" version="1">
+  <Properties>
+    <Name>Steel and Thunder: Unique Units - Enable All</Name>
+    <Description>This enables all units from Steel &amp; Thunder: Unique Units namely those that are disabled by default.</Description>
+    <Teaser>Enables all units from Steel &amp; Thunder: Unique Units</Teaser>
+    <Authors>Deliverator</Authors>
+    <CompatibleVersions>2.0</CompatibleVersions>
+  </Properties>
+  <FrontEndActions>
+    <UpdateDatabase id="ST_UU_ALL_DB_FrontEnd">
+      <Properties>
+        <LoadOrder>4</LoadOrder>
+      </Properties>
+      <File>Data/MOARUniqueUnitsConfig_EnabledAll.sql</File>
+    </UpdateDatabase>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="ST_UU_ALL_DB">
+      <Properties>
+        <LoadOrder>4</LoadOrder>
+      </Properties>
+      <File>Data/MOARUniqueUnits_EnabledAll.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>Data/MOARUniqueUnitsConfig_EnabledAll.sql</File>
+    <File>Data/MOARUniqueUnits_EnabledAll.sql</File>
+  </Files>
+</Mod>

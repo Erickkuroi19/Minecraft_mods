@@ -1,0 +1,93 @@
+<GameData><LocalizedText>
+<Replace Language="zh_Hant_HK" Tag="LOC_ABILITY_AUTOMATIC_GUNFIRE_DESCRIPTION"><Text>+8 [ICON_Strength] Combat Strength against Melee, Anti Cavalry and Light Cavalry units.</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_ABILITY_CITY_CENTER_NERF_DESCRIPTION"><Text>-6 [ICON_Strength] Combat Strength against Districts.</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_ABILITY_EXPLORER_DESCRIPTION"><Text>Ignores rivers when moving and has no disembark cost.</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_ABILITY_PLUS_X_WHEN_DEFENDING_DESCRIPTION"><Text>+8 [ICON_Strength] Combat Strength when defending.</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_ABILITY_PRE_GUNPOWDER_MELEE_ATTACK_DESCRIPTION"><Text>+6 [ICON_Strength] Combat Strength against pre-Gunpowder Melee units on non-District tiles.</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_1"><Text>方帆船是壹種最早出現在10世紀的船，從12世紀開始廣泛使用。木齒通常是用橡木制成的，是普魯士波羅的海地區的壹種豐富的木材。這條船只裝了壹根桅杆和壹張方帆。這些船只大多與中世紀歐洲的海上貿易有關，特別是漢薩同盟，尤其是波羅的海地區。它們的長度在15 - 25米(49 - 82英尺)之間，橫梁長度在5 - 8米(16 - 26英尺)之間，最大的嵌齒船可以裝載200噸左右的貨物。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_1"><Text> 胸甲騎兵是裝備了盔甲和火器的騎兵，最早出現于15世紀後期的歐洲。其法語原意爲“有胸甲者”，指代他們穿著的胸部盔甲。當那些騎兵——比如“重騎兵”和“准槍騎兵”放下他們的長槍而改用手槍作爲主要武器時，第壹支胸甲騎兵部隊就此孕育而生。到了17世紀後期，胸甲騎兵們抛棄了他們的肢體護甲，開始只裝備胸部盔甲（前胸甲和背甲），有時再加上壹頂頭盔。在這壹時期，胸甲騎兵們以刀劍作爲主要武器，手槍變成了次要的攻擊手段。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_1"><Text> 地理大發現、探索時代、大航海時代，這些名詞指的是15世紀末至18世紀初的壹段非正式定義且範圍模糊的歐洲曆史時期。這壹時期標志性的大規模海外探索行動成爲了組成歐洲文化以及促使全球化開端的關鍵性因素，同時也導致了殖民主義在歐洲各國的廣泛使用和重商主義的興起。在壹時間段之中，許多歐洲人前所未聞的土地被相繼發現——雖然其中大部分早已有人居住。從很多歐洲以外的民族視角來看，地理大發現時期往往意味著從未知之地遠道而來的移民——以及侵略者。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_2"><Text> 探險家是爲了探測新事物等目的而深入危險或未知領域進行探索之人，通常也是壹個國家或文明最先到達某處之人。全球探索的開端始于葡萄牙探險家發現位于大西洋上的馬德拉和亞速爾群島，探索非洲海岸線並于1498年發現通往印度的海上路線，還有在1492年到1502年期間由卡斯蒂利亞王國（西班牙）資助的克裏斯托弗·哥倫布橫跨大西洋的航行，以及1519年至1522年間的第壹次環球航行。這壹系列的發現掀起了規模龐大的跨越大西洋、印度洋和太平洋的海洋探索熱潮，而在美洲、亞洲、非洲和澳洲的陸地勘探行動則壹直持續到了19世紀。最終到了20世紀初，極地探索的結束爲這壹屬于探險家的篇章畫上了句號。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_1"><Text>三桅帆戰艦是由大型商船發展而來的軍用船只。它們被改造成軍事用途，比普通的(輕的)監獄更高、更大、更慢。他們有多達32把槳，每把槳最多由5個人操作。他們通常有三個桅杆，壹個水手艙和壹個船尾樓。威尼斯人盡了很大的努力，使這些苦役犯盡可能快地趕上正規苦役犯。甲板上的炮筒通常會超過劃手的頭部，但也有圖片顯示相反的排列。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_2"><Text> 三桅帆戰艦通常比真正的戰艦帶更多的帆，而且更加致命;壹艘從側面被俘的戰艦躺在那裏，幾乎毫無辦法，因爲從側面撞到壹艘大帆船上，就像和壹艘船壹樣，使攻擊者暴露在它的炮火之下。相對較少的軍艦都建立起了壹個缺點是,更依賴于帆,他們的立場在廚房的前面線戰鬥的開始不能guaranteed-but他們使用在1571年勒班陀戰役中,他們的火力幫助贏得神聖聯盟艦隊的勝利,和壹些足夠適航軍艦伴隨1588年西班牙無敵艦隊(例如赫羅納)。在15世紀，壹種被稱爲“護衛艦”的輕型帆船在南歐國家建造，以應對北非巴巴裏海盜在他們的快速監獄中日益增長的挑戰。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_3"><Text>在地中海，由于氣候不那麽危險，風也不那麽無常，在威尼斯和奧斯曼帝國，尤其是在其他地方早已過時的威尼斯和奧斯曼帝國，長年以來，就壹直在使用苦役船和苦役船。後來，“輪船”和帆船被源自大西洋歐洲的加隆和船隊所取代。這條線的第壹艘威尼斯船建于1660年。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_1"><Text> 加特林機槍是壹種聞名遐迩的早期機簧填彈手搖式速射武器，也是現代機槍的先驅。發明者爲理查·喬丹·加特林。在1860年美國南北戰爭中首次被聯邦軍帶上戰場，隨後也在衆多的軍事沖突中亮相，比如戊辰戰爭、祖魯戰爭，以及美西戰爭期間發生在聖胡安山脈的突襲行動。此外還被美國民兵和國民警衛隊投入到了1877年的鐵路大罷工事件之中，特別是在賓夕法尼亞州的匹茲堡地區。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_2"><Text>加特林機槍的的工作原理圍繞著輪轉的多槍管設計思路，這壹設計有助于冷卻槍管和同步再裝填序列。當單個槍管旋轉到圓周的某個特定位置時射出壹枚彈藥，然後退出用過的彈膛繼續進行新壹輪次裝填，槍管在這個過程中也會稍稍降溫。這種構造可以使機槍在槍管不會過熱的情況下進行更高頻率的射擊。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1"><Text>長劍是中世紀和啓蒙時代用途最廣泛的武器。它比長槍更輕也更易攜帶，而且允許單手或者雙手使用，這樣劍士就可以再帶上壹面盾牌。在與長槍兵正面作戰時，長劍士往往會很吃虧，因爲在進入攻擊距離之前就已經被對方更長的武器大量殺傷。但是，長劍士比起長槍兵速度更快，機動性也更強。壹旦他們從側面對長槍兵實行了包抄，後者就只能任其宰割了。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_1"><Text> 曆史學家對馬蹄鐵的起源說法不壹。因爲鐵是壹種貴重的物資，用其制作的物品在損壞後通常會被重鑄或回收再利用，這就使得明確的考古證據很難被獲得。起源自德魯伊的觀點盡管有壹定可信度，但也沒有確鑿的證據爲其提供支撐。1897年，在公元前400年的伊特拉斯坎文明墓穴中還出土過四枚具有明顯釘孔的青銅馬蹄鐵。另壹些曆史學家則以公元前54年逝世的羅馬詩人卡圖盧斯的注釋爲憑，主張羅馬人在公元前100年的某個時間點發明了所謂的“騾靴”。然而，這些引證中所提到的羅馬時期的蹄鞋和蹄靴，可能只是“馬涼鞋”（Hipposandal）——壹種經過鐵板加固的皮革馬靴，而非使用蹄釘固定在馬掌上的蹄鐵。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_2"><Text> 現存文獻中出現釘掌馬蹄鐵記錄的時間相對較晚，已知最早爲公元900年左右，但在泥土層中的壹些發現可能會將此時間進壹步推前。在拜占庭皇帝利奧六世統治時期（866-912）之前記錄中沒有任何現存的涉及釘掌馬蹄鐵的確證，只發現了973處偶爾提及的引用。而鐵制馬蹄鐵最早的明確書面記載則是在公元910年的壹份關于“新月型鐵條和蹄釘”的注釋。很少有證據能證明在公元500或600年之前存在過需要釘掌的馬用鞋，不過在比利時圖爾奈的法蘭克國王希爾德裏克壹世墓穴中，也曾發現過壹塊公元5世紀的蹄鐵及其配套的蹄釘。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_3"><Text> 到了公元1000年左右，打造附帶釘孔的青銅馬蹄鐵在歐洲已經變得相當普遍。其造型通常被設計爲帶有波狀輪廓的邊緣和六個蹄釘釘孔。13和14世紀的曆史促成了鐵制馬蹄鐵制造業的普及。十字軍戰爭期間（1096–1270），馬蹄鐵壹詞開始廣泛而頻繁的出現在各式各樣的文字來源之中。在這壹時期，由于鐵本身的價值，馬蹄鐵甚至可以用來代替硬幣繳納稅款。從13世紀開始，蹄鐵被大量鍛造以致于能直接買到現成制品。“趁熱釘掌”（壹種在爲馬釘掌前，趁蹄鐵尚未冷卻對其進行快速加工和修整的工藝）在16世紀已經變得十分常見。由于對馬蹄鐵的需求，鍛造工藝成爲了“中世紀和近代最爲重要的工藝之壹，冶金技術也于同時得到了發展。” </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_1"><Text>迫擊炮是壹種以低速和短距離發射炮彈的裝置。傳統上，迫擊炮作爲壹種武器，可以在高速彈道軌迹中推進爆炸迫擊炮彈。這種武器通常是用短的，通常是平滑的槍管，通常比它的口徑短15倍。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_1"><Text> 來複槍是用于抵肩射擊的單兵火器。來複槍的槍管內部刻有膛線（即“來複線”），使得子彈發射後高速旋轉，與沒有膛線的老式火器相比其射程更遠，精度更高。歐洲人制造線膛槍的最早嘗試是在15世紀，然而生産技術的複雜度使其直到19世紀才得以普及。英國和美國的突擊步兵和偵察兵在拿破侖戰爭和1812年戰爭期間都使用了線膛火槍，但這種武器裝填速度太慢，在之後的許多年中仍無法在正規軍中廣泛裝備。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_2"><Text>米尼式子彈的發明極大地提升了彈藥裝填速度，到了美國南北戰爭時期，前膛裝彈的線膛火槍已經被歐洲列強的軍隊所普遍使用。在南北戰爭結束時，線膛火槍又被後膛裝彈的來複槍所取代，來複槍的射擊頻率可達每秒壹發（只要射手能夠及時拉起槍栓然後扣動扳機），與其相比用前膛裝彈方式即使是訓練有素的射手也只能達到約20至30秒壹發。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_1"><Text>自行火炮(也稱爲機動火炮或機車火炮)是配備有自己的推進系統的火炮，以向目標前進。在這個術語中，包括自行火炮(或榴彈炮)和火箭炮。它們是高機動車輛，通常基于連續的軌道，攜帶壹個大型榴彈炮、野戰炮、迫擊炮或某種形式的火箭或導彈發射器。它們通常用于戰場上的遠程間接轟炸支援。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_2"><Text>在過去，自行火炮包括直火載具，如突擊炮和坦克驅逐艦。這些裝甲車是重型裝甲車輛，前者爲步兵提供近距離火力支援，後者則充當專門的反坦克車輛。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_3"><Text>現代的自行火炮可能表面上看起來像坦克，但它們壹般都是輕型裝甲，在直接交火中太輕了。然而，他們保護他們的工作人員對抗彈片和小武器，因此通常被包括作爲裝甲戰鬥車輛。許多裝備有機槍用來防禦敵人的步兵。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_4"><Text>自推過拖曳式火炮的關鍵優勢在于它可以更快地投入戰鬥。在牽引火炮可以使用之前，它必須停止，並設置機槍。爲了移動位置，槍支必須再次被重新固定起來，並且通常被拖到新的位置。相比之下，自行火炮可以停在選定的位置，幾乎立即開火，然後迅速移動到壹個新的位置。這種射擊和技能在移動沖突中非常有用，特別是在前進的時候。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_1"><Text> 巨型投石機是壹種強大的中世紀攻城武器。第壹次出現在12世紀的歐洲，它可以遠距離向敵人的牆壁投擲300磅的石彈。中世紀歐洲版的巨型投石機是壹種“平衡錘”。它是壹個很長的木制手臂，壹端是吊帶，另壹端是沈重的重量，裝在壹個沈重的木制框架上。長臂被絞死，舉起了沈重的重量，壹枚石彈被放置在吊索上。當釋放時，重量會下降，手臂會飛向空中，將石彈甩到很遠的地方。這些機器壹般都是不流動的，需要長時間的組裝，從而限制了它們對長時間工作的有效利用。 </Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_COG_DESCRIPTION"><Text>中世紀海軍近戰單位.</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_COG_NAME"><Text>方帆船</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION"><Text>工業時代重騎兵單位。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME"><Text>胸甲騎兵</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_EXPLORER_DESCRIPTION"><Text>文藝複興的快速移動、偵察單位，能忽略跨河與海灘登陸的移動懲罰。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_EXPLORER_NAME"><Text>探險家</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_GALLEASS_DESCRIPTION"><Text>中世紀海軍遠程單位。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_GALLEASS_NAME"><Text>三桅帆戰艦</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION"><Text>工業時代支援單位。對抗除重騎兵以外的陸地單位+8戰鬥力[ICON_Strength]。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_GATLING_GUN_NAME"><Text>加特林機槍</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION"><Text>中世紀時代的近戰單位。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_LONGSWORDSMAN_NAME"><Text>長劍士</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION"><Text>原子能時代支援單位。對抗除重騎兵以外的陸地單位+8戰鬥力[ICON_Strength]。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION"><Text>中世紀輕騎兵單位。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME"><Text>輕騎兵</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_MORTAR_DESCRIPTION"><Text>原子能時代遠程單位。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_MORTAR_NAME"><Text>迫擊炮</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION"><Text>工業時代近戰單位。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_RIFLEMAN_NAME"><Text>線列步兵</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION"><Text>信息時代遠程單位.</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME"><Text>火箭炮</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION"><Text>信息時代攻城單位。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME"><Text>自行火炮</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_TREBUCHET_DESCRIPTION"><Text>中世紀攻城單位。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_TREBUCHET_NAME"><Text>重力抛石機</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="MINUS_X_VS_CITY_CENTERS_DESC"><Text>位于區域戰鬥時-6戰鬥力[ICON_Strength]。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC"><Text>對抗輕騎兵+15戰鬥力[ICON_Strength]。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"><Text>對抗中騎兵+20戰鬥力[ICON_Strength]。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC"><Text>對抗除重騎兵以外陸地單位+8戰鬥力[ICON_Strength]。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="PLUS_X_VS_PRE_GUNPOWDER_MELEE_DESC"><Text>位于非區域地格對抗前火藥近戰單位+6戰鬥力[ICON_Strength]。</Text></Replace>
+<Replace Language="zh_Hant_HK" Tag="PLUS_X_WHEN_DEFENDING_DESC"><Text>+8 [ICON_Strength] Combat Strength when defending.</Text></Replace>
+</LocalizedText></GameData>
